@@ -1,11 +1,11 @@
 html {
-    background-image: url("Image/background.jpg");
+    background-image: url("https://images.pling.com/img/00/00/62/84/47/1982032/dolomiti-italy-autumn-lago-antorno-landscape-photography-desktop-hd-wallpaper-for-pc-tablet-and-mobile-3840x2400-1920x1080.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 html.about{
-    background-image: url("Image/about.jpg");
+    background-image: url("https://images.alphacoders.com/835/thumb-1920-83521.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
