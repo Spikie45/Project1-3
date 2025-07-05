@@ -1,11 +1,11 @@
 html {
-    background-color: rgb(84, 90, 4);
+    background-color:#545a04;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 html.about{
-    background-color: rgb(189, 182, 255);
+    background-color: #724fed;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
